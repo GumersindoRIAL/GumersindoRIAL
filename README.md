@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### 👋 Gumersindo — Consultant en automatisation
+### 👋 Gumersindo RIAL — Consultant en automatisation
 
 **Je connecte vos outils, j'automatise vos process, je vous rends du temps.**
 
@@ -98,9 +98,9 @@ avec une approche centrée sur la rapidité de déploiement et la maintenabilit�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=48C9B0" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=[TON_USERNAME](https://github.com/GumersindoRIAL)&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=48C9B0" height="160"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TON_USERNAME](https://github.com/GumersindoRIAL)&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF" height="160"/>
 
 </div>
 
