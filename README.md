@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### 👋 Gumersindo RIAL — Consultant en automatisation
+### 👋 Gumersindo RIAL — Consultant en automatisations
 
 **Je connecte vos outils, j'automatise vos process, je vous rends du temps.**
 
