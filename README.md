@@ -10,7 +10,7 @@
 
 ### 👋 Gumersindo RIAL — Consultant en automatisations
 
-**Je connecte vos outils, j'automatise vos process, je vous rends du temps.**
+**Je connecte vos outils, j'automatise vos process, et je vous rends du temps.**
 
 Spécialisé dans la conception de workflows sur mesure pour TPE et indépendants,<br/>
 avec une approche centrée sur la rapidité de déploiement et la maintenabilité.
