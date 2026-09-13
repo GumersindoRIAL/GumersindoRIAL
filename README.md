@@ -1,125 +1,52 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:48C9B0&height=200&section=header&text=OPTOMIA&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Automation%20Consultant%20•%20No-Code%20%2F%20Low-Code&descAlignY=58&descSize=18" width="100%"/>
+<!-- Bannière -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6D00CC&height=180&section=header&text=OPTOMIA&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Automatisation%20no-code%20sur%20mesure&descAlignY=62&descSize=18" width="100%"/>
+
+<!-- Tagline animée -->
+<a href="https://gumersindo.ovh">
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&size=20&pause=1000&color=6D00CC&center=true&vCenter=true&width=600&lines=Audit+%26+conseil+en+automatisation;Solutions+sur+mesure+Make+%2B+Airtable;Formations+pour+gagner+en+autonomie" alt="Typing SVG" />
+</a>
 
 </div>
 
----
+## 👋 À propos
+
+Je m'appelle **Gumersindo**, je suis freelance en automatisation no-code/low-code et j'accompagne les indépendants et TPE via **OPTOMIA**, à Toulouse.
+
+Après 30 ans en tant que directeur logistique et opérations, j'aide aujourd'hui les petites structures à automatiser leurs processus métier sans dépendre d'une équipe technique.
+
+## 🧩 Ce que je fais
+
+- **🔍 Audit & conseil** — diagnostic des process existants, identification des gains d'automatisation
+- **⚙️ Solutions sur mesure** — scénarios Make.com, bases Airtable, formulaires Fillout/Zite connectés
+- **🎓 Formations** — montée en autonomie des équipes sur leurs propres outils
+
+## 🛠️ Stack
 
 <div align="center">
 
-### 👋 Gumersindo RIAL — Consultant en automatisations
-
-**Je connecte vos outils, j'automatise vos process, et je vous rends du temps.**
-
-Spécialisé dans la conception de workflows sur mesure pour TPE et indépendants,<br/>
-avec une approche centrée sur la rapidité de déploiement et la maintenabilité.
+![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
+![Fillout](https://img.shields.io/badge/Fillout%2FZite-000000?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+![Mistral AI](https://img.shields.io/badge/Mistral%20AI-FA520F?style=for-the-badge&logo=mistralai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
----
-
-## 🧰 Stack & outils
+## 📫 Me contacter
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,python,github,vscode&theme=dark" />
+[![Site](https://img.shields.io/badge/Site-gumersindo.ovh-6D00CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gumersindo.ovh)
+[![Email](https://img.shields.io/badge/Email-contact%40optomia.fr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@optomia.fr)
 
 </div>
 
-<br/>
-
 <div align="center">
-
-| Orchestration | Données | Formulaires | IA |
-|:---:|:---:|:---:|:---:|
-| ![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white) | ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white) | ![Fillout](https://img.shields.io/badge/Zite_Forms-FF6B6B?style=for-the-badge&logoColor=white) | ![Claude](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logoColor=white) |
-| ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white) | ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white) | ![Typeform](https://img.shields.io/badge/Typeform-262627?style=for-the-badge&logo=typeform&logoColor=white) | ![Mistral](https://img.shields.io/badge/Mistral_AI-FF6B35?style=for-the-badge&logoColor=white) |
-
-</div>
-
----
-
-## 🚀 Ce que je construis
-
-<details>
-<summary><b>⚙️ Automatisations Make.com</b></summary>
-<br/>
-
-- Pipelines de traitement de documents (OCR, extraction structurée, classification)
-- Intégration d'APIs métier (Pennylane, Toggl, Géorisques, Pappers…)
-- Bots Telegram avec traitement voix / image / texte via IA
-- Synchronisation multi-outils (CRM ↔ facturation ↔ gestion de projet)
-
-</details>
-
-<details>
-<summary><b>🗄️ Architecture de données Airtable</b></summary>
-<br/>
-
-- Modélisation de bases métier (MCD, relations, rollups)
-- Interfaces Airtable pour pilotage opérationnel
-- Automatisations natives + hybrides Make/Airtable
-
-</details>
-
-<details>
-<summary><b>🤖 Intégration IA (Mistral / Claude)</b></summary>
-<br/>
-
-- Extraction structurée de données depuis PDF et images
-- Analyse de documents financiers (relevés bancaires, devis, CDPGF)
-- Génération de synthèses et de rapports automatisés
-
-</details>
-
-<details>
-<summary><b>📋 Formulaires connectés (Zite Forms)</b></summary>
-<br/>
-
-- Formulaires multi-étapes avec logique conditionnelle
-- Connexion directe Airtable (création & mise à jour de records)
-- Onboarding client, collecte de données, qualification de leads
-
-</details>
-
----
-
-## 💼 Secteurs d'intervention
-
-![Architecture](https://img.shields.io/badge/Architecture-gray?style=flat-square)
-![Courtage](https://img.shields.io/badge/Courtage_immobilier-gray?style=flat-square)
-![Services B2B](https://img.shields.io/badge/Services_B2B-gray?style=flat-square)
-![Indépendants](https://img.shields.io/badge/Indépendants-gray?style=flat-square)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=github.com/GumersindoRIAL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=48C9B0" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github.com/GumersindoRIAL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF" height="160"/>
-
-</div>
-
----
-
-## 📬 Contact
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/contact@optomia.fr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@optomia.fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON_PROFIL)
-[![Site web](https://img.shields.io/badge/optomia.fr-6C63FF?style=for-the-badge&logo=safari&logoColor=white)](https://optomia.fr)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:48C9B0,100:6C63FF&height=100&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6D00CC&height=100&section=footer" width="100%"/>
 </div>
